@@ -1,0 +1,6 @@
+# Options +FollowSymlinks
+# RewriteEngine On
+
+# RewriteRule ^home$ /Views/homePage.php 
+# RewriteRule ^fonctionnement$ /Views/fonctionnement.php 
+# RewriteRule ^equipe$ /Views/equipe.php 
